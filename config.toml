@@ -1,0 +1,168 @@
+baseurl = "/"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+title = "Transcrobes"
+canonifyurls  = true
+
+DefaultContentLanguage = "en"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Learn a language doing stuff you love"
+  logo = "img/tc128.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "2006-01-02"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  wordCount = true
+  showRelatedPosts = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Anton Melser"
+  email = "anton@transcrob.es"
+# gitlab = "transcrobes"
+  github = "transcrobes"
+# reddit = "username"
+# linkedin = "username"
+# stackoverflow = "users/XXXXXXX/username"
+# youtube = "user/username" # or channel/channelname
+youtube = "channel/UCEXMQOmPKNM1wIWZb3ceG-A"
+# keybase = "username"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 1
+
+[[menu.main]]
+    name = "Software"
+    identifier = "soft"
+    weight = 6
+
+[[menu.main]]
+    parent = "soft"
+    name = "Install"
+    url = "page/software/install/home"
+    weight = 6
+
+[[menu.main]]
+    parent = "soft"
+    name = "Configure"
+    url = "page/software/configure/home"
+    weight = 7
+
+[[menu.main]]
+    parent = "soft"
+    name = "Learn"
+    url = "page/software/learn/home"
+    weight = 7
+
+[[menu.main]]
+    identifier = "mio"
+    name = "Meaningful IO"
+    weight = 7
+
+[[menu.main]]
+    parent = "mio"
+    name = "Theory"
+    url = "page/meaningful-io/intro"
+    weight = 7
+
+[[menu.main]]
+    parent = "mio"
+    name = "Experiment server"
+    url = "page/meaningful-io/experiment"
+    weight = 8
+
+[[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    weight = 14
+
+[[menu.main]]
+    parent = "faq"
+    name = "FAQ"
+    url = "page/faq"
+    weight = 14
+
+[[menu.main]]
+    parent = "faq"
+    name = "Supported Languages"
+    url = "page/supported-languages"
+    weight = 14
+
+[[menu.main]]
+    parent = "faq"
+    name = "Privacy Centre"
+    url = "page/privacy"
+    weight = 14
+
+[[menu.main]]
+    identifier = "contribute"
+    name = "Contribute"
+    weight = 12
+
+[[menu.main]]
+    parent = "contribute"
+    name = "Contribute"
+    url = "page/contribute"
+    weight = 1
+
+[[menu.main]]
+    parent = "contribute"
+    name = "Development"
+    url = "page/development"
+    weight = 2
+
+[[menu.main]]
+    parent = "contribute"
+    name = "Code of Conduct"
+    url = "page/code_of_conduct"
+    weight = 3
+
+# [[menu.main]]
+#     identifier = "about"
+#     name = "About"
+#     weight = 18
+
+[[menu.main]]
+    parent = "faq"
+    name = "About"
+    url = "page/about"
+    weight = 12
+
+[[menu.main]]
+    parent = "faq"
+    name = "Contact"
+    url = "page/contact"
+    weight = 18
+
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 20

@@ -1,0 +1,35 @@
+---
+title: Moocrobes
+date: 2021-04-21
+comments: false
+---
+
+Authentic video, particularly supported by subtitles, can be a highly effective language learning tool. Normal players, however, are not optimised for language learning, and subtitles are either in the language of the video or the native language of the viewer. Also, very few platforms enrich subtitles with hypertext features (clickable definitions, etc.) and no other platforms gloss only the words that the learner doesn't know.
+
+## Configuring Moocrobes
+Moocrobes can be configured to use different [glossing types](/page/software/configure/glossing), and the player can also be configured with dark/light mode, font size, playback speed (in -/+5% increments), subtitle delay (-/+), volume and other common media player functions.
+
+#### Original movie
+<img style="max-width:60%" src="/img/moocrobes/wander1.png"/>
+<br/>
+
+#### Segmented
+<img style="max-width:60%" src="/img/moocrobes/wander2.png"/>
+<br/>
+
+#### Transliterated (Pinyin)
+<img style="max-width:60%" src="/img/moocrobes/wander3.png"/>
+<br/>
+
+#### Vocabulary popup
+<img style="max-width:100%" src="/img/moocrobes/wander5.png"/>
+
+## Using Moocrobes
+
+Currently you need to provide both the movie/video file and a subtitle file. In the future Moocrobes will connect to various content providers (Netflix, iqiyi, etc.) so you can watch directly.
+
+### Finding video files
+The various laws and jurisdictions around the world mean that it is not currently possible for Transcrobes to help you find video/movie files. Try and find these files within your own network of friends or as you would normally on the internet. Transcrobes is in no way responsible for the content you consume - no more than Microsoft or Apple are! Currently you need to download the video file to your device (Moocrobes works great on both desktop/laptop and mobile devices), so that you can chose the file from your device when you want to watch.
+
+### Finding subtitle files
+The [Open Subtitles](https://www.opensubtitles.org/en/search/subs) site has a truly massive selection of subtitles, and is a great place to look. Please be careful though on this or any other site you might use when looking for subtitles.
