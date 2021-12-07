@@ -1,3 +1,8 @@
+---
+title: Server Privacy
+comments: false
+---
+
 # Transcrobes Server Privacy Information
 
 ## Preambule

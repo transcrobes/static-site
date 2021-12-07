@@ -6,6 +6,15 @@ comments: false
 
 Authentic video, particularly supported by subtitles, can be a highly effective language learning tool. Normal players, however, are not optimised for language learning, and subtitles are either in the language of the video or the native language of the viewer. Also, very few platforms enrich subtitles with hypertext features (clickable definitions, etc.) and no other platforms gloss only the words that the learner doesn't know.
 
+You can access the video content from the [Contents menu](/page/software/configure/contents)
+
+<img style="max-width:70%" src="/img/contents/contents-show3.png"/>
+
+You can also see your progress on the vocabulary (and soon grammar) contained in the video, and get some idea how difficult it might be for you now, and how that will change in the future if you continue your great work!
+
+<img style="max-width:70%" src="/img/contents/contents-show4.png"/>
+
+
 ## Configuring Moocrobes
 Moocrobes can be configured to use different [glossing types](/page/software/configure/glossing), and the player can also be configured with dark/light mode, font size, playback speed (in -/+5% increments), subtitle delay (-/+), volume and other common media player functions.
 

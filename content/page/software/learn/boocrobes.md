@@ -17,11 +17,13 @@ The system currently supports importing non-DRM-protected ebooks in the widely u
 
 Importing will analyse the book, giving you important information about the unique benefits and challenges you will face with this particular book, at this particular point in your learning journey. 
 
-<img style="max-width:70%" src="/img/imports/3body.png"/>
+You can then see information about the content of the book and read the book using the `boocrobes` reading interface, which you can access from the [Contents menu](/page/software/configure/contents). 
 
-You can then read the book using the `boocrobes` reading interface.
+<img style="max-width:70%" src="/img/contents/contents-show1.png"/>
 
-<img style="max-width:70%" src="/img/boocrobes/3body3.png"/>
+The Show Content view also shows your progress concerning the vocabulary of the book (and soon grammar) over the last two months. This will give you some idea how difficult the book might be, and how might expect to progress if you keep up your current study practices!
+
+<img style="max-width:70%" src="/img/contents/contents-show2.png"/>
 
 ### After transcrobing
 With the information the system has about your knowledge of a language, glosses (and more soon) are added just for the words that you don't know, allowing fluid and enjoyable reading.
