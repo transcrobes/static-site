@@ -25,4 +25,4 @@ The development focus until now has been on making extensive content consumption
 | Name | Activity Type | Status | Comments |
 |----------|-------------|------|------|
 | [repetrobes](/page/software/learn/repetrobes) | vocabulary memorisation | available | Some user interface usability issues on mobile are currently being improved |
-| [notrobes](/page/software/learn/notrobes) | word lookup | available | many functions available, many more planned (personalised example sentences, etc.) |
+| [notrobes](/page/software/learn/notrobes) | word lookup | available | many functions available, many more planned! |

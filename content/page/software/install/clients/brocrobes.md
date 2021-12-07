@@ -11,7 +11,7 @@ Transcrobes includes a Chrome browser extension `brocrobes`. You can install the
 
 # Connecting to the Transcrobes Server {#browser-login}
 
-You will need to connect the extension to the server with the server URL, your username and password. Get in touch with your server admin for information on getting those. If you are enrolled in the [Meaningful IO Research project](/page/meaningful-io/transcrobes), please follow [the specific instructions for that](/page/meaningful-io/transcrobes) to sign up.
+You will need to connect the extension to the server with the server URL, your username and password. Get in touch with your server admin for information on getting those. If you are enrolled in the [Meaningful IO Research project](/page/meaningful-io/home), please follow [the specific instructions for that](/page/meaningful-io/experiment) to sign up.
 
 After you have signup details and installed the extension, you will need to head to the extension configuration/options page. First right-click on the extension button (you might need to make it show it first), then select "Extension options".
 

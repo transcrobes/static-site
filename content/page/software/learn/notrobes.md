@@ -32,31 +32,24 @@ Card Actions allow you to update the information the system has about your knowl
 ## Existing Cards
 Existing cards shows you the most recent information the system has on your [revision of the cards](/page/software/learn/repetrobes), including the (approximate) next time you should expect to see it in the revision tool. If the state is "Is Known", then you don't need to revise it - the date is when the system calculates you might forget, but when you say you know a word, the system doesn't second guess you (so you don't get bothered with a word you know and can concentrate on those you haven't mastered yet).
 
+<img src="/img/notrobes/hao2.png"/>
+
 ## Lists
 A word can belong to zero or more [word lists](/page/software/configure/wordlists). Word lists allow you to choose what [vocabulary you revise](/page/software/learn/repetrobes) and to [set and monitor goals](/page/software/configure/goals). A word becomes part of a list when you [import a list or content](/page/software/configure/imports).
+
+## Recently Seen Phrases
+This section contains phrases/sentences that you have seen in content recently with the platform. The system keeps the last 3 phrases (between 5 and 25 words long) for each part of speech that the system has seen for the word. This means you get examples from stuff you are already familiar with, which helps many learners learn quicker.
 
 ## Metadata
 Several different kinds of metadata are available. For Chinese the [HSK](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi) and [spoken word frequencies](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm).
 
-<img src="/img/notrobes/hao2.png"/>
+<img src="/img/notrobes/hao3.png"/>
 
 ## Entry Definitions
-Transcrobes gets different bilingual dictionary definitions from various sources (and can support more if they are available). The abbreviations are the following:
 
-|Abbreviation|Part of speech|
-|----------|----------|
-|ADJ   |Adjectives|
-|ADV   |Adverbs|
-|CONJ  |Conjunctions|
-|DET   |Determiners|
-|MODAL |Verbs|
-|NOUN  |Nouns|
-|PREP  |Prepositions|
-|PRON  |Pronouns|
-|VERB  |Verbs|
-|OTHER |Other|
+Transcrobes currently gets definitions from several available resources. Currently Microsoft's <a href="https://www.microsoft.com/en-us/translator/business/translator-api/">Bing Lookup and Translator services</a> are supported, along with <a href="https://cc-cedict.org/editor/editor.php">CC-CEDICT</a>. Microsoft's Translator service is used so that learners always get a translation, even if the system is unable to find a word in the traditional dictionaries. While the system sometimes finds words that don't correspond to traditional dictionary items, using the translator means that 99% of the time you can understand, which is what the goal is!
 
-These were adapted from the system used by [Microsoft's Azure Cognitive Services Text API](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/reference/v3-0-dictionary-lookup)
+<img src="/img/notrobes/hao4.png"/>
 
 ## Related Words
 

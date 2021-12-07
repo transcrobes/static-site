@@ -19,7 +19,7 @@ Brocrobes is a browser extension that allows you to enrich any webpage with the 
 
 ## Using Brocrobes
 
-To use brocrobes, [after you have installed it](/page/software/install/clients/browser-extensions), simply navigate to the webpage you are interested in - any webpage - and click on the web extension button `Transcrobe Me!`. Depending on the complexity and size of the webpage, it might take a few seconds for the enrichment process to start to be visible but rest assured, Transcrobes is working hard in the background.
+To use brocrobes, [after you have installed it](/page/software/install/clients/brocrobes), simply navigate to the webpage you are interested in - any webpage - and click on the web extension button `Transcrobe Me!`. Depending on the complexity and size of the webpage, it might take a few seconds for the enrichment process to start to be visible but rest assured, Transcrobes is working hard in the background.
 
 Sometimes `brocrobes` will make a bit of a mess of a webpage, due to bad webpage coding by the site developers. The better you know the language of the webpage, the less of a mess those sites will be. The idea behind brocrobes is that if there are so many words on a page that get translated inline that it makes a mess, you definitely won't be able to understand anything on the page without it. So short of using a full webpage translation tool like Google Translate (which can make a mess too), you either have a choice of not being able to understand anything, or having the page a bit messy. It's up to you - click on the Transcrobe Me! button or not - you decide!
 

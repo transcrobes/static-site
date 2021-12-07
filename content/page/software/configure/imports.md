@@ -8,10 +8,9 @@ Lists of vocabulary and content can be imported into Transcrobes.
 <img style="max-width:70%" src="/img/imports/3body1.png"/>
 
 When files are imported, they are parsed and analysed, and important information is stored about them.
-
 <img style="max-width:70%" src="/img/imports/3body2.png"/>
 
-These analyses can then be used for creating [word lists](/pages/software/configure/wordlists). [Word lists](/page/software/configure/wordlists) are the basis for several Transcrobes features, including vocabulary revision and setting goals, with more to come soon. Depending on the file type, imports of the appropriate type will appear as [ebooks](/page/software/learn/boocrobes) or [media/video](/page/software/learn/moocrobes)(for subtitles). Those interfaces then allow the enriching of the content for reading/watching with the comprehension aids the system provides.
+These analyses can then be used for creating [word lists](/page/software/configure/wordlists). [Word lists](/page/software/configure/wordlists) are the basis for several Transcrobes features, including vocabulary revision and setting goals, with more to come soon. Depending on the file type, imports of the appropriate type will appear as [ebooks](/page/software/learn/boocrobes) or [media/video](/page/software/learn/moocrobes) (for subtitles). Those interfaces then allow the enriching of the content for reading/watching with the comprehension aids the system provides.
 
 # Supported formats
 ## Importing lists

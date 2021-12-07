@@ -7,7 +7,7 @@ One of the key philosophical drivers behind Transcrobes is learner freedom. Trad
 
 Goals can be cut up into sub-goals, which are then grouped together so that they are more achievable, making it easier to get a clear idea of how the learner is progressing. For example, each chapter of a novel could be a sub-goal of the goal of reading the novel. Each chapter in a textbook could be a sub-goal of the goal of the textbook, and getting an A this year.
 
-So key to the learning process is realtime feedback as to where learners are on their journey towards their goals. Setting goals is currently mainly achieved via [imports](/page/software/configure/imports), which can in turn be the basis of [word lists](/page/configure/wordlists). These word lists can then be used to create sub-goals and goals. Grammatical patterns, idiomatic expressions and more will be added soon.
+So key to the learning process is realtime feedback as to where learners are on their journey towards their goals. Setting goals is currently mainly achieved via [imports](/page/software/configure/imports), which can in turn be the basis of [word lists](/page/software/configure/wordlists). These word lists can then be used to create sub-goals and goals. Grammatical patterns, idiomatic expressions and more will be added soon.
 
 
 
