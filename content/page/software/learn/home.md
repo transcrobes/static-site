@@ -6,6 +6,12 @@ comments: false
 
 See [here](/page/meaningful-io/home) for more details on the scientific theories behind the Transcrobes project.
 
+# Getting Started
+
+[Beginners](/page/software/learn/getting-started-beginner)
+
+[Advanced Beginners+](/page/software/learn/getting-started-intermediate)
+
 # Supported Activities
 
 ## Meta-learning
