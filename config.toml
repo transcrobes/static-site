@@ -83,6 +83,12 @@ youtube = "channel/UCEXMQOmPKNM1wIWZb3ceG-A"
     weight = 7
 
 [[menu.main]]
+    parent = "soft"
+    name = "Resources"
+    url = "page/software/resources/home"
+    weight = 7
+
+[[menu.main]]
     identifier = "mio"
     name = "Meaningful IO"
     weight = 7
