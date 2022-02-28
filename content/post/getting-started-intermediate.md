@@ -3,15 +3,29 @@ title: Getting started as an intermediate learner
 date: 2022-01-05
 comments: false
 ---
+
+# tl;dr
+
+### Bootstrap
+- If you already use an application, then export the vocab you already know and [import that as a list to Transcrobes](/page/software/configure/imports). Importing let's you bootstrap your account so the system learns what you know.
+- If your current/previous application doesn't allow that, or you are just getting started learning with software, then head to the [Listrobes input tool](/page/software/configure/listrobes) and spend as much time as you can be bothered telling the system what words you already know.
+
+### Learn
+- [Import](/page/software/configure/imports) [books](/page/software/learn/boocrobes), [videos/movies](/page/software/learn/moocrobes), or [any text](/page/software/learn/textcrobes), or visit [any webpage](/page/software/learn/brocrobes), and use the built-in comprehension aids to follow your interests and passions while you learn. 
+- Practice vocabulary (and soon grammar) in the [Repetrobes vocabulary revision tool](/page/software/learn/repetrobes).
+
+### Reflect
+- [Set yourself and monitor goals](/page/software/configure/goals), and follow your overall learning progress in the [statistics](/page/software/learn/stats) module.
+
+## Introduction
+
 In addition to [the vocabulary work](/post/getting-started-beginner) that you started when you first started learning and should still be doing, at some point in your learning, some teacher, book, or site will no doubt tell you (probably already) to start trying to do some "extensive reading", or possibly to watch movies, listen to music, etc. You may well have a dedicated "extensive reading" course if you are late intermediate or advanced. This gives you exposure to new vocabulary and grammar, and helps to cement the learning you have done in class with "real-life" usages of the words and grammar. It is also *supposed* to be "fun" (or at least more fun/interesting than grammar drills). It can further give you valuable insight into the culture of the native speakers, and this is *super* important when you are learning a language. Sometimes someone will understand all the words you are saying to them but still not understand, because "how could anyone ever think that, let alone say it? They must mean something else, they are a human being after all...". Content opens the door to the world of the language you are learning, and that's important whether you are on the bus, in the library, on Zoom or in the bar.
 
 {{< notice tip >}}
-All tools in the Transcrobes learning application have an <button style="color: blue" type="button" aria-label="Online Help"><span style="color: blue;"><svg style="width: 1.2em; height:1.2em;" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path style="fill: currentColor;" d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"></path></svg><span style="padding: 4px 5px;">Online Help</span></span></button> button, that takes you to specific help for that page.
+All tools in the Transcrobes learning application have an <button style="color: blue" type="button" aria-label="Online Help"><span style="color: blue;"><svg style="width: 1.2em; height:1.2em;" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path style="fill: currentColor;" d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"></path></svg><span style="padding: 4px 5px;">Online Help</span></span></button> button, that takes you to specific help for that tool.
 {{< /notice >}}
 
 This page tells you about the tools Transcrobes provides, how to use them and why they are more effective and fun than traditional learning methods and software.
-
-# tl;dr
 
 Consuming lots of authentic content (books, articles, movies, music, etc.) is required to develop mature language skills in any language (including your native language!). The sooner you start and the more you consume, the easier learning can be. Digital tools, and particularly Transcrobes, allow learners to start consuming their own preferred authentic content (with Transcrobes that means *any* content you want!) much earlier than was (practically) possible before, and when combined with data collected from the content consumption and hyper-personalised active learning tools, gives much, much greater control over learning to individual learners, allowing much more efficient *and* fun learning.
 

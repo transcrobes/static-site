@@ -1,5 +1,5 @@
 ---
-title: Meaningful IO Transcrobes
+title: Meaningful IO
 subtitle: The theory behind Transcrobes
 comments: false
 ---

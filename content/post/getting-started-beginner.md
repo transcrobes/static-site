@@ -4,19 +4,29 @@ date: 2022-01-05
 comments: false
 ---
 
-Transcrobes already has a lot of advanced functionality, so here is some introductory advice on how to start using it for beginners to Chinese. A lot of Transcrobes functionality is currently focussed on developing written skills (reading, writing, vocabularly), so if you are a heritage learner with a large spoken vocabulary but only recognise a few characters, you should also start here (but you'll likely progress VERY fast!). 
+# tl;dr
+
+- Do an (online or offline) introductory course to get started with learning grammar and basic vocabulary.
+- Use the Transcrobes vocabulary learning and revision tools to super-charge your learning, and then use it to start consuming real content as soon as you feel you can.
+
+## Introduction
+
+Transcrobes already has a lot of advanced functionality, but here is some introductory advice on how to start using it for beginners to Chinese. A lot of Transcrobes functionality is currently focussed on developing written skills (reading, writing, vocabularly), so if you are a heritage learner with a large spoken vocabulary but only recognise a few characters, you should also start here (but you'll likely progress VERY fast!). 
 
 If you already know around 1000+ words (700+ characters) or more (HSK 4 and above), then [you should start here](/post/getting-started-intermediate).
 
 {{< notice tip >}}
-All tools in the Transcrobes learning application have an <button style="color: blue" type="button" aria-label="Online Help"><span style="color: blue;"><svg style="width: 1.2em; height:1.2em;" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path style="fill: currentColor;" d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"></path></svg><span style="padding: 4px 5px;">Online Help</span></span></button> button, that takes you to specific help for that page.
+All tools in the Transcrobes learning application have an <button style="color: blue" type="button" aria-label="Online Help"><span style="color: blue;"><svg style="width: 1.2em; height:1.2em;" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path style="fill: currentColor;" d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"></path></svg><span style="padding: 4px 5px;">Online Help</span></span></button> button, that takes you to specific help for that tool.
 {{< /notice >}}
 
-# tl;dr
-
+ 
 Most learners find some kind of online or offline class/course provides much-needed structure to learning. You should follow one, and use memory techniques and Transcrobes' spaced repetition to help with learning vocabulary as quickly as possible, so you can move on to the fun part, discovering authentic content (books, websites, movies, music...).
 
+## Start Here...
+
 We already [have Transcrobes-optimised resources for some free online courses for beginners](/page/software/resources/home), which is a great way to get started with Transcrobes. If you know of a great, free course that we could also provide resources for, [get in touch](/page/contact) and we'll explore making resources available for that too.
+
+# How to learn a foreign language
 
 ## Beginning a second language {#beginners}
 
@@ -73,11 +83,8 @@ If you just want to learn a list of words so that you can answer multi-choice qu
 So how should you use Transcrobes for learning as a beginner? As mentioned above, you will typically get a list of words with the lesson you are about to start. You should copy/write those into a file, one word per line, and put a .csv extension on it , for example, one word per line in Excel and then "Save as CSV", or using your favourite text editor. Make sure the file is a proper text file, not some horrible Microsoft wordpad thing that the system can't understand! You can then [import](/page/software/configure/imports) that file into the system. When the import has finished you can [create a list](/page/software/configure/wordlists). You can then immediately use that wordlist to learn the vocabulary by selecting the list in the [Repetrobes vocabulary tool](/page/software/learn/repetrobes). So each new lesson you will create a new list and start learning that. It might take you half an hour or so the first couple of times but you will quickly find your preferred way of doing this and it will likely only take you a couple of minutes when you are used to it. [Repetrobes](/page/software/learn/repetrobes), if you use it regularly, will then make sure that you never forget the words you have already learnt, so you can ace any tests you have and spend your time doing something you love instead! You can combine lists however you like, and you can start learning a few weeks before if you are particularly motivated (or have a boy/girl/teacher you want to impress!). 
 
 ##### Write the characters down when you learn/practice them
-[Repetrobes](/page/software/learn/repetrobes) includes a touch-sensitive system whereby you can "write" the characters with your finger (or stylus, if you have one) on devices that are touch-sensitive (smartphones, tablets, etc.). This is great, but many people find that it is actually even better if you use a pen or pencil and write them down on paper - at least if that is practical. Touchscreen writing does also force you to write the strokes in order, and can give you some hints, so it is not 100% clearcut either way in terms of "the best way". The science around this is still not very clear but the physical gesture of writing is important as it really helps to solidify the memory pathways for most learners, so typically both either will be better than neither. In any case, many find learning characters can be a good way to spend their time on public transport, and you typically can't use a pencil and paper while standing up on the metro so let the situation decide for you!
+[Repetrobes](/page/software/learn/repetrobes) includes a touch-sensitive system whereby you can "write" the characters with your finger (or stylus, if you have one) on devices that are touch-sensitive (smartphones, tablets, etc.). This is great, but many people find that it is actually even better if you use a pen or pencil and write them down on paper - at least if that is practical. Touchscreen writing does also force you to write the strokes in order, and can give you some hints, so it is not 100% clearcut either way in terms of "the best way". The science around this is still not very clear but the physical gesture of writing is important as it really helps to solidify the memory pathways for most learners, so typically both will be better than neither. In any case, many find learning characters can be a good way to spend their time on public transport, and you typically can't use a pencil and paper while standing up on the metro, so you can let the situation decide for you!
 
 ### Final thoughts
 
-By working this way with Transcrobes and Repetrobes, the system will already have a very accurate picture of what you know, and when you are ready to start reading/watching/listening to some authentic content, it will already be perfectly tuned to make your learning very efficient and loads of fun! You can read more about what is in store later by looking at how to use Transcrobes after you know a bit more [here](/page/software/learn/getting-started-intermediate).
-
-
-
+By starting out learning this way with Transcrobes and Repetrobes, the system will already have a very accurate picture of what you know, and when you are ready to start reading/watching/listening to some authentic content (after you learn the basics), it will already be perfectly tuned to make your learning very efficient and loads of fun! You can read more about what is in store later by looking at how to use Transcrobes after you know a bit more [here](/post/getting-started-intermediate).
