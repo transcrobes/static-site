@@ -8,9 +8,7 @@ See [here](/page/meaningful-io/home) for more details on the scientific theories
 
 # Getting Started
 
-[Beginners](/page/software/learn/getting-started-beginner)
-
-[Advanced Beginners+](/page/software/learn/getting-started-intermediate)
+[Start Here](/page/software/learn/getting-started)
 
 # Supported Activities
 
@@ -30,5 +28,11 @@ The development focus until now has been on making extensive content consumption
 
 | Name | Activity Type | Status | Comments |
 |----------|-------------|------|------|
-| [repetrobes](/page/software/learn/repetrobes) | vocabulary memorisation | available | Some user interface usability issues on mobile are currently being improved |
+| [repetrobes](/page/software/learn/repetrobes) | vocabulary memorisation | available | |
 | [notrobes](/page/software/learn/notrobes) | word lookup | available | many functions available, many more planned! |
+
+## Meta-learning-focused activities
+
+| Name | Activity Type | Status | Comments |
+|----------|-------------|------|------|
+| [Statistics](/page/software/learn/stats) | personal statistics | available | Basic statistics available, much more to come |

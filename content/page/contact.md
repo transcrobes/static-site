@@ -10,11 +10,11 @@ The project currently uses [Github project issues](https://github.com/transcrobe
 If you feel you have been the victim [inappropriate behaviour](/page/code_of_conduct) or have noticed it somewhere, then please get in touch with the project team via the email: not.ok at transcrob.es.
 
 ## Maintainers
-You can also contact the maintainers directly if you really need to.
+You can also contact the maintainers directly if you prefer email.
 
 | Name | Project role | Contact email |
 |----|----|----|
-| Anton Melser | Maintainer | anton at transcrob.es |
+| Anton Melser | Maintainer | anton at transcrob.es (or anton.melser at my.cityu.edu.hk) |
 | Your name | Maintainer | your.name at transcrob.es !!! :-) |
 
 ## Experimental Platform

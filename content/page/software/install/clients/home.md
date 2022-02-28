@@ -14,12 +14,11 @@ Throughout the site, "Chrome (and compatible)" means Chromium-based browsers, su
 
 | Name | Application Type | Platforms | Support Type | Status | Comments |
 |----------|-------------|------|------|------|------|
-| [Transcrobes site](/page/software/install/clients/transcrobes) | Website | Chrome (and compatible) & Firefox | Web | Full Support | Main active and content-based learning environment |
-| [Brocrobes](/page/software/install/clients/brocrobes) | Chrome extension | Chrome (and compatible) on Desktop, Yandex Browser on Android | Browser extension | Full support | Allows enriching all textual web content |
-
+| [Transcrobes site](/page/software/install/clients/transcrobes) | Website | Chrome (and compatible) | Web | Full Support | Main active and content-based learning environment |
+| [Brocrobes](/page/software/install/clients/brocrobes) | Chrome extension | Chrome (and compatible) on Desktop, Kiwi Browser on Android | Browser extension | Full support | Allows enriching all textual web content |
 
 # iOS Support
-iOS support is noticeably absent from the above lists. 
+iOS support is noticeably absent from the above lists.
 
 ### Transcrobes site
 Many years after all the other major browsers properly support most of the critical Service Worker functionality, Safari still doesn't. There are also opaque restrictions on many features (like indexeddb, size, etc.) that make it a requirement to have specific code for iOS/Safari that aren't required for anything else. That requires a lot of extra work, and the maintainer doesn't have any Apple devices to test on. Hopefully the situation will change soon though, so we can support Apple users also.

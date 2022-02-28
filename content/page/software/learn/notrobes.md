@@ -59,4 +59,4 @@ Related words are also collected from various data sources. These are often syno
 Every time you encounter a word in the language you are learning (when using one of the tools!), the system records that you have seen it again, with some extra information, like whether you were also shown a gloss, whether you looked it up, etc. This information lets you know how often you see the word, and will soon be used for some new, advanced predictive features around the most useful vocabulary for each individual learner (like prioritising revision, predicting useful texts to read/study, exercise generation, etc.).
 
 ## Coming soon
-The system will soon start collecting examples of each of the words you are learning directly from your favourite content. Those will then be also used for creating exercises based on stuff that you have already encountered, which should make learning far more efficient for most learners.
+[Get in touch](/page/contact) and let us know what you would like to see here!
