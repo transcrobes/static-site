@@ -6,14 +6,11 @@ comments: false
 
 See [here](/page/meaningful-io/home) for more details on the scientific theories behind the Transcrobes project.
 
-# Getting Started
+## Understanding language learning
 
-[Start Here](/page/software/learn/getting-started)
+You can find detailed getting started information for [beginners](/post/getting-started-beginner), or for [advanced Beginners+](/post/getting-started-intermediate). These pages give (quite long) introductions into many aspects of language learning that you might not think of but are important if you want to learn efficiently, so when you have some spare time, you should take a few moments to read through them.
 
 # Supported Activities
-
-## Meta-learning
-The development focus until now has been on making extensive content consumption tools (web, ebooks, video) available and starting to collect data. [notrobes](/page/software/learn/notrobes) (also see below) already has some basic information on what the system knows about the learner's vocabulary knowledge, including the number of times the word has been seen, definitions looked up, etc. The next phase will concentrate on giving insights to the learner on how they are progressing towards their [goals](/page/software/configure/goals).
 
 ## Real language/Content-focused activities
 
@@ -32,6 +29,9 @@ The development focus until now has been on making extensive content consumption
 | [notrobes](/page/software/learn/notrobes) | word lookup | available | many functions available, many more planned! |
 
 ## Meta-learning-focused activities
+
+The development focus until now has been on making extensive content consumption tools (web, ebooks, video) available and starting to collect data. [notrobes](/page/software/learn/notrobes) (see above) already has some basic information on what the system knows your vocabulary knowledge, including the number of times the word has been seen, definitions looked up, etc. The next phase will concentrate on giving further insights on how you are progressing towards your [goals](/page/software/configure/goals), which has already begun with [the statistics module](/page/software/learn/stats).
+
 
 | Name | Activity Type | Status | Comments |
 |----------|-------------|------|------|

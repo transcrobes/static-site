@@ -1,19 +1,53 @@
-If you have signed up and are looking to get started, then [here are instructions for beginners](/page/software/learn/getting-started-beginner) are [here are instructions for advanced beginners and above](/page/software/learn/getting-started-intermediate).
+# Welcome to Transcrobes!
 
-## What is it?
+Transcrobes is an open ecosystem for learning languages, with actual learners at the centre of all research, development and services.
 
-Transcrobes is an [open source software](https://github.com/transcrobes) and [research project](/page/meaningful-io/intro) that puts the learner at the centre of the language learning process. It builds a representation of the learner’s lexical (and soon grammatical) knowledge and then uses that information to enrich (gloss) real-world texts in-place as learners consume real-world content, on their preferred devices. It also provides highly optimised tools for learning vocabulary and gives deep understanding into how learning is progressing over time.
+It is [open source](https://en.wikipedia.org/wiki/Open_source), [open research](https://en.wikipedia.org/wiki/Open_research) and [open education](https://en.wikipedia.org/wiki/Open_education).
 
-## Who is it for?
+[Sign up for free to be a part of Transcrobes today](https://am.transcrob.es/#/signup)
 
-Transcrobes currently only fully supports learning Chinese for English speakers. If your English is very good, then you should be Ok but otherwise you're better to wait until your preferred language has been implemented. Learning other languages is planned, with English and Russian planned for next.
+### What can it do?
 
-## Can I try it out?
+<img style="max-width:70%" src="/img/getting-started/perso0.png"/>
 
-When you first start learning a language as a young adult (and later), you need quite specialised material, and it is often good to have explicit instruction/teaching on grammar, pronunciation, word-formation, etc. Transcrobes does not yet do this, though we are working on instructions for using it with existing (free) resources from platforms like Coursera. Transcrobes can be used with these courses to greatly improve your learning.
+Transcrobes provides deeply individualised comprehension and learning aids, to turn *any* authentic text into an optimised tool for language learning. Get help *only* with the stuff you need help for, with automatic glosses for unknown words, and on-demand definitions, translations, similar sentences, synonyms, and direct integration with active learning tools like spaced repetition, and much more.
 
-Advanced beginners and above (1000+ words with basic grammar) learners can continue to learn with traditional courses, or could decide that Transcrobes provides everything they need (with extra/free resources they can find online).
+<img style="max-width:70%" src="/img/getting-started/perso1.png"/>
 
-If you want to be a part of the active university research project sponsoring the development of this project and try out the software, you can [get information here](/post/experiment/) and [sign up here](https://am.transcrob.es/).
+Personalise every aspect of the texts and aids, including the text and gloss fonts, text and gloss colours, gloss content, light/dark mode and more, so you choose the way in which you are most comfortable reading and learning.
 
-There are also instructions on how to [best make use of the platform](/post/learning/)
+<div style="display: inline-flex;">
+<img style="max-width:48%" src="/img/getting-started/movie.png"/>
+<img style="max-width:48%" src="/img/getting-started/web.png"/>
+</div>
+
+With video, ebooks, web and and text you can copy/paste or put in a text file supported, you are not limited to a restricted catalogue of material, and can explore the language and culture on your own terms.
+
+### An ecosystem of learning
+
+Because humans are complex and learn using many different techniques in many different contexts, Transcrobes provides many different ways to learn, and is constantly evolving to add new ways to learn. The project has a non-dogmatic "if it works, it's good" attitude, and plans to make tools that can be effectively used by individual learners, tutors, schools, universities, companies and governments alike.
+
+The current phase targets independent learning and has two focuses: authentic content-based learning and spaced repetition, and other tools and techniques will be added as the project moves forward.
+
+### Content-based Learning
+
+Transcrobes can analyse and enrich a variety of formats, including [ebooks](/page/software/learn/boocrobes), [video](/page/software/learn/moocrobes), [copied text](/page/software/learn/textcrobes), and other [imports](/page/software/configure/imports).
+
+### Advanced Spaced Repetition
+
+[Repetrobes](/page/software/learn/repetrobes), the integrated [spaced-repetition/flashcard software](https://en.wikipedia.org/wiki/Spaced_repetition) for learning vocabulary has a number of advanced modes, including calculating the most valuable vocabulary for you to learn based on the content you actually consume and the goals you set for yourself, not on some generic, outdated list formulated decades ago by some aging grammar teacher.
+
+<img style="max-width:70%" src="/img/getting-started/repetrobes.png"/>
+
+### Reflect and analyse
+
+Control and understand your progress over time, with self-defined goals, statistics and more to give you both the learning tools and insights into your own learning, to achieve what *you* want, and not what someone else wants for you (though the two are obviously not mutually exclusive!).
+
+<div style="display: inline-flex;">
+<img style="max-width:48%" src="/img/getting-started/stats1.png"/>
+<img style="max-width:48%" src="/img/getting-started/stats2.png"/>
+</div>
+
+### Research
+
+Transcrobes is also an [active research project](/page/meaningful-io/experiment), focused on understanding how learners really learn in real learning environments over real learning timescales (so years), rather than the artificial experimental contexts (so hours) most current research has decided to use, for the sake of simplicity. Transcrobes hopes to show that academic research can actually produce real value for real people while producing high-quality research, rather than only produce abstract results that are very difficult to apply in real-life contexts.

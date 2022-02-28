@@ -18,7 +18,7 @@ comments: false
 
 | Name | Task Type | Status | Comments |
 |----------|-------------|------|------|
-| [user preferences](/page/software/configure/preferences) | Preferences | available | Supported platform-wide preferences: Dark mode (beta, still has known issues) |
+| [user preferences](/page/software/configure/preferences) | Preferences | available | Supported platform-wide preferences: Dark mode |
 | [system actions](/page/software/configure/system) | Maintenance | available | System maintenance actions |
 
 # System information and explainers

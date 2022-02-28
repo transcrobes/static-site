@@ -57,5 +57,3 @@ Control and understand your progress over time, with self-defined goals, statist
 ### Research
 
 Transcrobes is also an [active research project](/page/meaningful-io/experiment), focused on understanding how learners really learn in real learning environments over real learning timescales (so years), rather than the artificial experimental contexts (so hours) most current research has decided to use, for the sake of simplicity. Transcrobes hopes to show that academic research can actually produce real value for real people while producing high-quality research, rather than only produce abstract results that are very difficult to apply in real-life contexts.
-
-

@@ -1,16 +1,22 @@
 ---
-title: Beginners with Transcrobes
+title: Beginning with Transcrobes
 date: 2022-01-05
 comments: false
 ---
 
 Transcrobes already has a lot of advanced functionality, so here is some introductory advice on how to start using it for beginners to Chinese. A lot of Transcrobes functionality is currently focussed on developing written skills (reading, writing, vocabularly), so if you are a heritage learner with a large spoken vocabulary but only recognise a few characters, you should also start here (but you'll likely progress VERY fast!). 
 
-If you already know around 1000+ words (700+ characters) or more (HSK 4 and above), then [you should start here](/page/software/learn/getting-started-intermediate).
+If you already know around 1000+ words (700+ characters) or more (HSK 4 and above), then [you should start here](/post/getting-started-intermediate).
+
+{{< notice tip >}}
+All tools in the Transcrobes learning application have an <button style="color: blue" type="button" aria-label="Online Help"><span style="color: blue;"><svg style="width: 1.2em; height:1.2em;" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path style="fill: currentColor;" d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"></path></svg><span style="padding: 4px 5px;">Online Help</span></span></button> button, that takes you to specific help for that page.
+{{< /notice >}}
 
 # tl;dr
 
 Most learners find some kind of online or offline class/course provides much-needed structure to learning. You should follow one, and use memory techniques and Transcrobes' spaced repetition to help with learning vocabulary as quickly as possible, so you can move on to the fun part, discovering authentic content (books, websites, movies, music...).
+
+We already [have Transcrobes-optimised resources for some free online courses for beginners](/page/software/resources/home), which is a great way to get started with Transcrobes. If you know of a great, free course that we could also provide resources for, [get in touch](/page/contact) and we'll explore making resources available for that too.
 
 ## Beginning a second language {#beginners}
 

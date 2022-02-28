@@ -6,7 +6,7 @@ comments: false
 
 In this section of the website you can find resources that will help you connect your learning to other sources. You can obviously bring your own resources to Transcrobes, and for most things like content, you will need to.
 
-You can find getting started information for [beginners](/page/software/learn/getting-started-beginner), or for [advanced Beginners+](/page/software/learn/getting-started-intermediate).
+You can find detailed getting started information for [beginners](/post/getting-started-beginner), or for [advanced Beginners+](/post/getting-started-intermediate). These pages give (quite long) introductions into many aspects of language learning that you might not think of but are important if you want to learn efficiently, so when you have some spare time, you should take a few moments to read through them.
 
 # Recommended courses and resources
 
