@@ -8,6 +8,7 @@ comments: false
 | Name | Task Type | Status | Comments |
 |----------|-------------|------|------|
 | [imports](/page/software/configure/imports) | Data/Content import | available | Supported formats: TXT, CSV, epub (v3), SRT, VTT (more soon) |
+| [user dictionaries](/page/software/configure/userdictionaries) | Dictionary management | available | Override system defaults with personalised meaning/translation providers |
 | [vocabulary bootstrap](/page/software/configure/listrobes) | Known vocabulary input | available | Quickly teach the system what you know |
 | [exports](/page/software/configure/exports) | Data export | available | Word-level and daily activity exports (more soon) |
 | [word lists](/page/software/configure/wordlists) | Define meaningful vocabulary/grammar sets | Vocabulary available | Grammar lists available soon |
