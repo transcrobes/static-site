@@ -4,7 +4,13 @@ subtitle: How are we really special?
 tags: ["language", "sign making"]
 ---
 
-Roy Harris talks about a "Language Myth" (Harris, 19when describing modern (particularly Western) view on "language". But maybe a better way to think about it is as a "Language Conspiracy". Conspiracies are absolutely fascinating phenomena in that something that might very well be seen by one group as a perfectly normal set of activities and states of affairs are seen by others as dastardly actions most foul, devised by a cabal of nefarious masterminds in the birthing of their ungodly designs.
+--------------------------
+https://en.wikipedia.org/wiki/Reification_(fallacy)
+Reification is part of normal usage of natural language (just like metonymy for instance), as well as of literature, where a reified abstraction is intended as a figure of speech, and actually understood as such. But the use of reification in logical reasoning or rhetoric is misleading and usually regarded as a fallacy.
+According to Alfred North Whitehead, one commits the fallacy of misplaced concreteness when one mistakes an abstract belief, opinion, or concept about the way things are for a physical or "concrete" reality: "There is an error; but it is merely the accidental error of mistaking the abstract for the concrete. It is an example of what might be called the 'Fallacy of Misplaced Concreteness.'"
+--------------------------
+
+Roy Harris talks about a "Language Myth" (Harris, 1980) when describing modern (particularly Western) view on "language". But maybe a better way to think about it is as a "Language Conspiracy". Conspiracies are absolutely fascinating phenomena in that something that might very well be seen by one group as a perfectly normal set of activities and states of affairs are seen by others as dastardly actions most foul, devised by a cabal of nefarious masterminds in the birthing of their ungodly designs.
 
 One absolutely key aspect is *intention* and the associated concept of agency. Now intention and agency are subjects that have been dealt with with _ad nauseum_ over the millenia, in pretty much any culture that has people with enough time for sustained navel contemplation (which is all of them, though not necessarily all the time!). My take is this: there is no such thing as "agency in nature" but we are unable to understand anything without thinking in agentive terms. Humans are social beings, and the basis of our capacity to apprehend and comprehend the world is on the foundation of thinking in terms of agents. Basically, there is no such thing as agency, so we invented it. 
 

@@ -1,10 +1,11 @@
 # Welcome to Transcrobes!
+<p style="text-align:center"><a style="color:white" href="https://am.transcrob.es"><button style="border-radius: 8px;text-align:center;background-color:green;">Login to the server</button></a></p>
 
 Transcrobes is an open ecosystem for learning languages, with actual learners at the centre of all research, development and services.
 
 It is [open source](https://en.wikipedia.org/wiki/Open_source), [open research](https://en.wikipedia.org/wiki/Open_research) and [open education](https://en.wikipedia.org/wiki/Open_education).
 
-[Sign up for free to be a part of Transcrobes today](https://am.transcrob.es/#/signup)
+<p style="text-align:center"><a style="color:white" href="https://am.transcrob.es/#/signup"><button style="border-radius: 8px;text-align:center;background-color:green;">Sign up for free to be a part of Transcrobes today</button></a></p>
 
 ### What can it do?
 
