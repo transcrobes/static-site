@@ -24,6 +24,13 @@ This graph gives you the nitty-gritty details of how active you have been *consu
 
 ## Words actively revised
 
-The last graph gives you the nitty-gritty details of how active you have been *revising* on a week-to-week/month-to-month basis. Currently it shows up to the last 6 months but we'll soon enable choosing date ranges (well before the 6 months is up!).
+The Words actively revised graph gives you the nitty-gritty details of how active you have been *revising* on a week-to-week/month-to-month basis. Currently it shows up to the last 6 months but we'll soon enable choosing date ranges (well before the 6 months is up!).
 
 <img style="max-width:70%" src="/img/stats/words_revised.png"/>
+
+## Revisions waiting
+
+Revisions waiting gives you a clear view on the number of revisions waiting and also how long they have been waiting.
+
+<img style="max-width:70%" src="/img/stats/revisions_waiting.png"/>
+

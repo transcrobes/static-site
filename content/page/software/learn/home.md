@@ -35,4 +35,5 @@ The development focus until now has been on making extensive content consumption
 
 | Name | Activity Type | Status | Comments |
 |----------|-------------|------|------|
+| [Dashboard](/page/software/learn/dashboard) | personal statistics | available | Basic, highly level indicators |
 | [Statistics](/page/software/learn/stats) | personal statistics | available | Basic statistics available, much more to come |
