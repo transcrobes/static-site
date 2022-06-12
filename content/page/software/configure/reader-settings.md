@@ -3,7 +3,7 @@ title: Reader Settings
 comments: false
 ---
 
-Each interface allows you to configure the reading aids (including for subtitles) in a fairly standard way, with additions whether that makes sense.
+Each interface allows you to configure the reading aids (including for subtitles) in a fairly standard way, with some additions where that makes sense.
 
 Each content screen has a <img style="display:inline" src="/img/configure/reader-settings0.png" /> button to take you to the specific configuration for it. Have a play and find what works for you best!
 
