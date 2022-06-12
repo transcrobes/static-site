@@ -7,6 +7,7 @@ comments: false
 
 | Name | Task Type | Status | Comments |
 |----------|-------------|------|------|
+| [reader settings](/page/software/configure/reader-settings) | Reader config | available | Personlise the reading aids |
 | [imports](/page/software/configure/imports) | Data/Content import | available | Supported formats: TXT, CSV, epub (v3), SRT, VTT (more soon) |
 | [user dictionaries](/page/software/configure/userdictionaries) | Dictionary management | available | Override system defaults with personalised meaning/translation providers |
 | [vocabulary bootstrap](/page/software/configure/listrobes) | Known vocabulary input | available | Quickly teach the system what you know |

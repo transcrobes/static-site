@@ -12,7 +12,7 @@ In order to validate both the theory and implementation of it in code, an instal
 
 # Partipation
 
-A copy of the City University of Hong Kong validated ethics consent form is available [here](https://am.transcrob.es/consent.html). If you are currently learning (simplified) Mandarin Chinese and are interested in participating, please read that document in full before registering, to ensure that participation in the experiment is right for you.
+A copy of the City University of Hong Kong validated ethics consent form is available [here](https://am.transcrob.es/static/consent.html). If you are currently learning (simplified) Mandarin Chinese and are interested in participating, please read that document in full before registering, to ensure that participation in the experiment is right for you.
 
 If new registrations are currently being accepted, you will be able to register [here](https://am.transcrob.es/#/signup). Server resources are limited, so it may be necessary to limit the number of participants if (as expected!) it becomes wildly popular. It is hoped to be able to support several hundred users though, so hopefully everyone who wants a spot can get one.
 
