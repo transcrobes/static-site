@@ -3,6 +3,14 @@ title: Importing lists and content
 comments: false
 ---
 
+# Supported formats
+| Name | Use case | Details | Supported Extensions |
+|----------|------|-------|------|
+| CSV | Word lists for monitoring exam progress or training the system on what you know | Comma separated plain text files | **.csv** |
+| TEXT | Copy/paste from an unsupported format (like Word or PDF) | Content files in plain text | **.txt** |
+| SUBS | Watch Chinese language video | Find subtitles on sites like opensubtitles.org and import | **.srt**, **.vtt** |
+| EBOOK | Reading Chinese language books | International standard format for eBooks | **.epub** |
+
 Lists of vocabulary and content can be imported into Transcrobes. 
 
 <img style="max-width:70%" src="/img/imports/3body1.png"/>
