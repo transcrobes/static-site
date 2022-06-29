@@ -3,6 +3,8 @@ title: Importing lists and content
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/w7OhcIU-WAM"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Imports on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 # Supported formats
 | Name | Use case | Details | Supported Extensions |
 |----------|------|-------|------|

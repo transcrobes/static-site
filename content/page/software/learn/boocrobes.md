@@ -4,7 +4,7 @@ date: 2021-04-21
 comments: false
 ---
 
-# Boocrobes
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/-TDHhtdP-Xk"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Boocrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
 
 Boocrobes allows you to read ebooks in the EPUB format using personalised comprehension aids, including when you are offline. The module is a (very slightly) adapted version of the amazing open source javascript "Readium V2" [R2D2BC reader](https://github.com/d-i-t-a/R2D2BC) developed by Aferdita Muriqi, with the addition of the special Transcrobes sauce that connects you to the model the system has of your language knowledge. The integration is not yet perfect, so you may need to refresh the page occasionally if the formatting does something strange.
 

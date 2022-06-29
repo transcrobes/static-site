@@ -3,6 +3,8 @@ title: Listrobes
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/l3zKi-J6coU"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Listrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 Listrobes is an input interface that allows you to indicate how well you know words very quickly. It can be used with or without the imports system to very quickly train the system, meaning onboarding can be very quick. 
 
 <img style="max-width:100%" src="/img/listrobes/all.png"/>

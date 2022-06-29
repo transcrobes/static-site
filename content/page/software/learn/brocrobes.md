@@ -4,6 +4,8 @@ date: 2021-04-21
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/bKLxXEml_sA"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Brocrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 Brocrobes is a browser extension that allows you to enrich any webpage with the your own, personalised help. When you click on the extension button, the extension will look for all text in the language you are learning on the page, and send that to the server. The server will then get context-based definitions for all the words, and translations for all the sentences, and send that back to the browser. The browser will then replace each part of the webpage with special, interactive text, including glosses (inline translations), but _only for the words you don't know_. A picture is worth a thousand words, and three are worth three thousand!
 
 #### Original Site

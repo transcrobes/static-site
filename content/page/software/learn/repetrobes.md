@@ -4,6 +4,8 @@ date: 2021-04-21
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/BADUoTtrML0"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Repetrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 Repetrobes is a digital flashcard (spaced repetition system), originally inspired by [Anki](https://apps.ankiweb.net/), and also (currently) using a modified version of the [SuperMemo 2 algorithm](https://en.wikipedia.org/wiki/SuperMemo). 
 
 Work has started on a very significantly optimised, personalised, behaviour-based, AI-powered version, which will be integrated soon. This new version will take into account all the information the system has on you, not just your responses in the tool, making it a LOT more accurate and powerful.

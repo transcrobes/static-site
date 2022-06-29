@@ -4,6 +4,8 @@ date: 2021-04-21
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/9AfRj55RcEE"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Notrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 Notrobes allows you to search for words (individual characters that are not words and radicals coming soon), and gives you significant amounts of information about those words, including your interaction with them.
 
 ## Using Notrobes

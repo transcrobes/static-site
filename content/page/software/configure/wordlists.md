@@ -3,6 +3,8 @@ title: Word lists
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/Q5h0HcgY0j4"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Wordlists on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 Wordlists are created by [importing and analysing texts](/page/software/configure/imports), then directing the system to create a list from the imported data. Texts can be simple lists of words (CSV or TXT are currently supported, more soon), or actual content (currently EPUB ebooks and SRT/VTT subtitles formats are supported, more soon). That makes it easy to both study lists like you might get for an exam, or a chapter in a textbook, but also content. You might really want to watch the latest blockbuster movie, and creating a list from the subtitles means you can spend some time going over the new vocabulary before you watch it (then afterwards also, which is a really great way to learn!).
 
 ## Wordlist Details

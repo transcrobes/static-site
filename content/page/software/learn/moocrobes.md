@@ -4,6 +4,8 @@ date: 2021-04-21
 comments: false
 ---
 
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://youtu.be/eHGY8JtRGH4"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Moocrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+
 Authentic video, particularly supported by subtitles, can be a highly effective language learning tool. Normal players, however, are not optimised for language learning, and subtitles are either in the language of the video or the native language of the viewer. Also, very few platforms enrich subtitles with hypertext features (clickable definitions, etc.) and no other platforms gloss only the words that the learner doesn't know.
 
 You can access the video content from the [Contents menu](/page/software/configure/contents)
