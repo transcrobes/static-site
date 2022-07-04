@@ -1,13 +1,14 @@
 # Welcome to Transcrobes!
-<p style="text-align:center"><a style="color:white" href="https://am.transcrob.es"><button style="border-radius: 8px;text-align:center;background-color:green;">Login to the server</button></a></p>
+
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://www.youtube.com/watch?v=YVEmdyhRm3I"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5">Discover Transcrobes on <img style="width:100px;display:inline;vertical-align:text-bottom;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
 
 Transcrobes is an open ecosystem for learning languages, with actual learners at the centre of all research, development and services.
 
-<p style="text-align:center"><a style="color:white" href="https://am.transcrob.es/#/signup"><button style="border-radius: 8px;text-align:center;background-color:green;">Sign up for free to be a part of Transcrobes today</button></a></p>
+<div style="display:flex;justify-content:space-around;text-align:center"><a style="color:white" href="https://am.transcrob.es"><button style="border-radius: 8px;text-align:center;background-color:green;width:180px;">Login to the server</button></a><a style="color:white" href="https://am.transcrob.es/#/signup"><button style="border-radius: 8px;text-align:center;background-color:green;width:180px;">Sign up for free</button></a></div>
 
 It is [open source](https://en.wikipedia.org/wiki/Open_source), [open research](https://en.wikipedia.org/wiki/Open_research) and [open education](https://en.wikipedia.org/wiki/Open_education).
 
-<p style="text-align:center"><a style="color:white" target="_blank" href="https://www.youtube.com/watch?v=XwZNzFw51lA&list=PLTPZJRPrvkmFS0cJudwCSNs1vrpZu9vgV"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Discover how to use Transcrobes on <img style="width:100px;display:inline;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
+<p style="text-align:center"><a style="color:white" target="_blank" href="https://www.youtube.com/watch?v=XwZNzFw51lA&list=PLTPZJRPrvkmFS0cJudwCSNs1vrpZu9vgV"><button style="border-radius: 8px;text-align:center;background-color:#42a5f5;">Learn how to use Transcrobes on <img style="width:100px;display:inline;vertical-align:text-bottom;" src="/img/yt_logo_rgb_light.png" /></button></a></p>
 
 ### What can it do?
 
