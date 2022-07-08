@@ -18,4 +18,4 @@ You can also contact the maintainers directly if you prefer email.
 | Your name | Maintainer | your.name at transcrob.es !!! :-) |
 
 ## Experimental Platform
-The City University of Hong Kong "Meaningful IO" PhD experiment platform is related to, but separate from, the Transcrobes project. For contact details, please consult the [contact details on the experiment Terms of Service](https://am.transcrob.es/tos/)
+The City University of Hong Kong "Meaningful IO" PhD experiment platform is related to, but separate from, the Transcrobes project. For contact details, please consult the [contact details on the experiment Terms of Service](https://am.transcrob.es/static/consent.html)

@@ -17,4 +17,4 @@ Some demos are available on the [Youtube channel](https://www.youtube.com/channe
 
 ---
 
-\* Some DRM-protected content may not be available yet. Content providers can implement support for Transcrobes directly in their content consumption applications or allow plugins to support it, so it should just be a matter of time! Check the list of [supported applications](/page/install/clients/overview) to see what applications are currently supported.
+\* Some DRM-protected content may not be available yet. Content providers can implement support for Transcrobes directly in their content consumption applications or allow plugins to support it, so it should just be a matter of time! Check the list of [supported applications](/page/software/install/clients/home) to see what applications are currently supported.

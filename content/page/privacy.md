@@ -10,4 +10,4 @@ The Transcrobes project contains several sub-projects. Some of these sub-project
 ## Application-specific privacy pages
 
 - [Brocrobes](/page/install/clients/brocrobes-chrome-privacy)
-- [Transcrobes server](/page/install/server/server-privacy)
+- [Transcrobes server](/page/software/install/server/server-privacy)

@@ -10,7 +10,7 @@ comments: false
 Transcrobes currently only fully supports learning Chinese for English speakers. If your English is very good then you should be Ok, but otherwise you're better to wait until your preferred language has been implemented. Partial support was developed for Chinese learners of English but has since been put on stand-by. It will be brought back when Chinese for English speakers support is first-class.
 
 ## How do I install Transcrobes?
-Transcrobes has both [server](/page/install/server/overview) and [client](/page/install/clients/overview) components. There are not currently any public servers (but there is an [ongoing academic research project](/page/meaningful-io/transcrobes), so you may be accepted into that if you are interested), so if you would like to try out the system you will need the knowledge to set up the server part, or know someone who is willing to do that for you.
+Transcrobes has both [server](/page/software/install/server/home) and [client](/page/software/install/clients/home) components. There are not currently any public servers (but there is an [ongoing academic research project](/page/meaningful-io/home/), so you may be accepted into that if you are interested), so if you would like to try out the system you will need the knowledge to set up the server part, or know someone who is willing to do that for you.
 
 If you are a developer and want to get your hands dirty, then check out the [contributing guidelines](/page/contribute) or head directly over to the [development section](/page/development) to get started.
 
