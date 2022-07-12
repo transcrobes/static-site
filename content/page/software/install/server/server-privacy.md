@@ -18,4 +18,6 @@ There is currently no "default" server implementation and if you install the cli
 ## Meaningful IO academic research project
 The principle maintainer of the Transcrobes project is undertaking a PhD at the City University of Hong Kong (2019-2023), and Transcrobes is the main object of the research (radically personalised language learning using authentic material for identity expression). While the research project uses Transcrobes, participants in the research project are protected by a separate privacy agreement, which is logically (and legally) separate from the Transcrobes project.
 
+Research server privacy policy: [https://am.transcrob.es/static/consent.html](https://am.transcrob.es/static/consent.html)
+
 Contact Anton (anton@transcrob.es) for information about the academic research project.
