@@ -10,10 +10,10 @@ After spending quite a bit of time setting up properly on Gitlab, it was decided
 There is an (incomplete) [backlog](https://github.com/transcrobes/transcrobes/issues) of stuff needing to be developed. 
 
 ## Communication
-The two main forms of communication are [via issues on the Github issue tracker](https://github.com/transcrobes/transcrobes/issues), or on [the discussion list](https://github.com/transcrobes/transcrobes/discussions). If you are new, please make sure you have discussed with a regular committer/maintainer BEFORE you start working to avoid any time-wasting and frustration. Communicate early, communicate often.
+The three main forms of communication are [the Discord](https://discord.gg/4qVNVAEVWj), [via issues on the Github issue tracker](https://github.com/transcrobes/transcrobes/issues), or on [the Github discussion list](https://github.com/transcrobes/transcrobes/discussions). If you are new, please make sure you have discussed with a regular committer/maintainer BEFORE you start working to avoid any time-wasting and frustration. Communicate early, communicate often.
 
 ## Languages
-The frontend is developed in React/Typescript (4.4+), using React-Admin as a base, with Material UI elsewhere for the visual side of things. The backend is Python (3.9+) - FastAPI with Faust Streaming as the job runner and data ingestion platform. Other (external) components such as the Stanford CoreNLP module, OpenReplay session recorder, Postgresql database, etc, are hosted internally (except Azure text translator, which is used as the translation engine, though should be replaced at some point), as are the backend services, on a k3s Kubernetes cluster, which is configured and deployed using Helm charts.
+The frontend is developed in React 18+/Typescript (4.7+), using React-Admin as a base, with Material UI elsewhere for the visual side of things. The backend is Python (3.10+) - FastAPI with Faust Streaming as the job runner. Other (external) components such as the Stanford CoreNLP module, OpenReplay session recorder, Postgresql database, etc, are hosted internally (except Azure text translator, which is used as the translation engine, though should be replaced at some point), as are the backend services, on a k3s Kubernetes cluster, which is configured and deployed using Helm charts.
 
 ## Source repository
 The project uses Git and all development gets done on github.com.
@@ -28,4 +28,4 @@ The project strives for a clean, single file git history, systematically rebasin
 There is heaps of cool stuff to do or, because you also probably want to use it to learn a language, just the stuff that you care about - it's all good.
 
 ## The build system
-Transcrobes now uses Github, but hasn't for migrated most things from Gitlab. Originally a quite advanced build system was set up but it wasn't really justified. Future work will be done when a real need arises.
+Transcrobes now uses Github, but hasn't migrated all the original scaffolding from Gitlab. Originally, a quite advanced build system was set up but it wasn't really justified. Future work will be done when a real need arises.
